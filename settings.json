@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Oli_je_teply.aternos.me:58251",
-    "port": 58251,
-    "version": "",
+    "ip": "Krafter.aternos.me",
+    "port": 39235,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
